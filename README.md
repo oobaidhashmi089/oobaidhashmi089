@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Flutter or any tech related stuff..
 - 📫 How to reach me > instagram: @obaid.6.hashmi>https://www.instagram.com/obaid.6.hashmi/
 - 😄 Pronouns: O/bai/d
--  <img src= "https://github-readme-stats.vercel.app/api?username=oobaidhashmi089&&show_icons=true&title_color=000000&icon_color=000000&text_color=000000_color=FFFFFF">
+-  <img src= "https://github-readme-stats.vercel.app/api?username=oobaidhashmi089&&show_icons=true&title_color=AF002A&icon_color=000000&text_color=000000_color=FFFFFF">
 
