@@ -6,11 +6,11 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on flutter
-- 🌱 I’m currently learning BS Computer Science
+- 🌱 I’m currently learning Dart,C#
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 https://github-readme-stats.vercel.app/api?username=oobaidhashmi089&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
-- 😄 Pronouns: Obaid
-- ⚡ Fun fact: 
+- 💬 Ask me about Flutter or any tech related stuff..
+- 📫 How to reach me > instagram: @obaid.6.hashmi>https://www.instagram.com/obaid.6.hashmi/
+- 😄 Pronouns: O/bai/d
+  <img src "https://github-readme-stats.vercel.app/api?username=oobaidhashmi089&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
