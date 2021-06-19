@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: O/bai/d
 -  <img src= "https://github-readme-stats.vercel.app/api?username=oobaidhashmi089&&show_icons=true&title_color=AF002A&icon_color=E52B50&text_color=000000_color=FFFFFF">
 - <img src= (" https://github-readme-stats.vercel.app/api/top-langs/?username=oobaidhashmi089")
-- <img src= ("https://github.com/oobaidhashmi089/github-readme-stats")
+
 
