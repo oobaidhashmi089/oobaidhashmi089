@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me > instagram: @obaid.6.hashmi>https://www.instagram.com/obaid.6.hashmi/,Facebook>https://www.facebook.com/syed.obaid.921/
 - 😄 Pronouns: O/bai/d
 -  <img src= "https://github-readme-stats.vercel.app/api?username=oobaidhashmi089&&show_icons=true&title_color=AF002A&icon_color=E52B50&text_color=000000_color=FFFFFF">
-- (" https://github-readme-stats.vercel.app/api/top-langs/?username=oobaidhashmi089")
+- " https://github-readme-stats.vercel.app/api/top-langs/?username=oobaidhashmi089"
 
 
