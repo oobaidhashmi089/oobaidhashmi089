@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/obaid-hashmi/<img src=https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/obaid-hashmi/<img src=https://<img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.facebook.com/https://img.flaticon.com/icons/png/512/20/20673.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF"/></a>
 <a href = "https://www.instagram.com/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
