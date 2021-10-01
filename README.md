@@ -13,14 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me > instagram: >https://www.instagram.com/obaid.6.hashmi/
 - Facebook>https://www.facebook.com/syed.obaid.921/
 - 😄 Pronouns: O/bai/d
+- 
 - <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
-
-
 
 
 <p align="center">
     <a href="https://github.com/oobaidhashmi089/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Syed Obaid Ullah Hashmi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=oobaidhashmi089&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Syed Obaid Ullah Hashmi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=oobaidhashmi089&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/>
     </a>
 </p>
 
