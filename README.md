@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me > instagram: >https://www.instagram.com/obaid.6.hashmi/
 - Facebook>https://www.facebook.com/syed.obaid.921/
 - 😄 Pronouns: O/bai/d
+- <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
+
+
 -  <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
