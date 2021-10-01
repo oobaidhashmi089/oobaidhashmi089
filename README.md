@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me > instagram: >https://www.instagram.com/obaid.6.hashmi/
 - Facebook>https://www.facebook.com/syed.obaid.921/
 - 😄 Pronouns: O/bai/d
--  <img src= "https://github-readme-stats.vercel.app/api?username=oobaidhashmi089&&show_icons=true&title_color=AF002A&icon_color=E52B50&text_color=000000_color=FFFFFF">
 -  <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
@@ -44,7 +43,6 @@ Here are some ideas to get you started:
 </p>
 
 ## 📊 My Github Stats
-
   <br/>
     <a href="https://github.com/oobaidhashmi089/github-readme-stats"><img alt="Syed Obaid Ullah Hashmi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=oobaidhashmi089&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/oobaidhashmi089/github-readme-stats"><img alt="Syed Obaid Ullah Hashmi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oobaidhashmi089&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
