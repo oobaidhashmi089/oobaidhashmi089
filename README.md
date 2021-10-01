@@ -5,15 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning Dart,c++,C#,flutter
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Flutter or any tech related stuff..
-- 📫 How to reach me > instagram: >https://www.instagram.com/obaid.6.hashmi/
-- Facebook>https://www.facebook.com/syed.obaid.921/
-- 😄 Pronouns: O/bai/d
-- 
+ 
  <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 
 
