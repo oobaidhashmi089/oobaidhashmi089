@@ -1,5 +1,5 @@
 ### HELLO I'M OBAID HASHMI  👋
--Energetic and ambitious Computer Science
+Energetic and ambitious Computer Science
 undergraduate, looking to a progressive
 organization that offers career growth, self- development, and long-term prospects, I can
 assure you my sincere commitment and hard
