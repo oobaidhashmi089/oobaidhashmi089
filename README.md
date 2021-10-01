@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/obaid-hashmi/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/obaid-hashmi/"><img src="https://img.icons8.com/ios-glyphs/2x/linkedin.png"/></a>
 <a href = "https://www.facebook.com/"><img src="https://img.icons8.com/ios-glyphs/2x/facebook-new.png"/></a>
 <a href = "https://www.instagram.com/"><img src="https://img.icons8.com/ios-glyphs/2x/instagram-new.png"/></a>
 
