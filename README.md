@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - Facebook>https://www.facebook.com/syed.obaid.921/
 - 😄 Pronouns: O/bai/d
 - 
-- <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
+ <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 
 
 <p align="center">
