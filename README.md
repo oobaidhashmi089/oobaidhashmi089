@@ -35,15 +35,8 @@ Here are some ideas to get you started:
   <br/>
  
 
-
 <br/>
 <br/>
-
-<a href="https://github.com/oobaidhashmi089/github-readme-activity-graph"><img alt="Syed Obaid Ullah Hashmi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=oobaidhashmi089&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
  ## 🚀 Languages and Tools:
 
 <p align="left"> 
@@ -61,6 +54,12 @@ Here are some ideas to get you started:
          <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"alt="postman" width="40" height="45"/> </a>
 
 </p>
+
+<a href="https://github.com/oobaidhashmi089/github-readme-activity-graph"><img alt="Syed Obaid Ullah Hashmi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=oobaidhashmi089&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
 
 
 ## ❤ Views and Followers
