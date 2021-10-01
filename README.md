@@ -7,6 +7,14 @@ Here are some ideas to get you started:
 -->
  
  <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
+ ## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/obaid-hashmi/"><img src="https://img.icons8.com/ios-glyphs/2x/linkedin.png"/></a>
+<a href = "https://www.facebook.com/"><img src="https://img.icons8.com/ios-glyphs/2x/facebook-new.png"/></a>
+<a href = "https://www.instagram.com/"><img src="https://img.icons8.com/ios-glyphs/2x/instagram-new.png"/></a>
+
+</p>
  ## 🚀 Languages and Tools:
 
 <p align="left"> 
