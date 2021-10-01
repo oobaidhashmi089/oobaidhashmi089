@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 
 
 <p align="center"> 
-  <img src="https://thumbs.dreamstime.com/z/eagles-wings-colors-american-flag-eagles-wings-colors-american-flag-vector-icon-99498474.jpg?width=100&height=100"/> 
+  <img src="https://www.graphicsprings.com/filestorage/stencils/913c8cfc4f637f9d4c48735ffec5e327.png?width=100&height=100"/> 
 </p>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=oobaidhashmi089">
