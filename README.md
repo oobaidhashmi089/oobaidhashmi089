@@ -1,4 +1,10 @@
 ### HELLO I'M OBAID HASHMI  👋
+-Energetic and ambitious Computer Science
+undergraduate, looking to a progressive
+organization that offers career growth, self- development, and long-term prospects, I can
+assure you my sincere commitment and hard
+work to the organization and moreover have the
+ability to work under pressure.
 
 <!--
 **oobaidhashmi089/oobaidhashmi089** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
