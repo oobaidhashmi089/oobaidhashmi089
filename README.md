@@ -68,8 +68,8 @@ Here are some ideas to get you started:
 </a>
 <a href="https://github.com/oobaidhashmi089?tab=followers"><img src="https://img.shields.io/github/followers/oobaidhashmi089?label=Followers&style=social" alt="GitHub Badge"></a>
 
-
+<p align="center"> 
   <img src="https://www.graphicsprings.com/filestorage/stencils/913c8cfc4f637f9d4c48735ffec5e327.png?width=500&height=500"/> 
-
+</p>
 
 
